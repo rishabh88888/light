@@ -1,141 +1,79 @@
-body {
-  color: #40514E;
-  margin: 0;
-  text-align: center;
-  font-family: 'Merriweather', serif;
-}
-h1 {
-  color: #66BFBF;
-  font-size: 5.625rem;
-  margin: 50px auto 0 auto;
-  font-family: 'Sacramento', cursive;
-}
+<!DOCTYPE html>
+<html>
 
-h2 {
-  color: #66BFBF;
-  font-family: 'Montserrat', sans-serif;
-  font-size: 2.5rem;
-  font-weight: normal;
-  padding-bottom: 10px;
-}
+<head>
+  <meta charset="utf-8">
+  <title>Bhumika</title>
+  <link rel="stylesheet" href="styles.css">
+ 
+</html>
 
-h3 {
-  color: #11999E;
-  font-family: 'Montserrat', sans-serif;
-}
 
-p {
-  line-height: 2;
-}
+<link href='https://fonts.googleapis.com/css?family=Lora:400,700,400italic|Open+Sans:300,400,500,700|Waiting+for+the+Sunrise|Shadows+Into+Light' rel='stylesheet' type='text/css'>
 
-hr {
-  border: dotted #EAF6F6 6px;
-  border-bottom: none;
-  width: 4%;
-  margin: 100px auto;
-}
+<div class="wrapper clearfix">
+  <div class="left">
 
-a{
-  color: #11999E;
-  font-family: 'Montserrat', sans-serif;
-  margin: 10px 20px;
-  text-decoration: none;
-}
+    <div class="name-hero">
 
-a:hover {
-  color: #EAF6F6;
-}
+      <div class="me-img"></div>
 
-.top-container {
-  background-color: #E4F9F5;
-  position: relative;
-  padding-top: 100px;
+      <div class="name-text">
 
-}
+        <h1>Bhumika <em>Kashyap</em></h1>
+        <p> .Net Developer 1 Yr + Exp</p>
+        <p>aashikashyap5477@gmail.com</p>
+        
+        
 
-.middle-container {
-  margin: 100px 0;
-}
+      </div>
 
-.bottom-container {
-  background-color: #66BFBF;
-  padding: 50px 0 20px;
-  font-size: 3.652rem;
-}
+    </div>
 
-.skill-row {
-  width: 50%;
-  margin: 100px auto 100px auto;
-  text-align: left;
-}
+  </div>
+  <div class="right">
 
-.pro {
-  text-decoration: underline;
-}
+    <div class="inner">
+      <section>
+        <h1>Experience</h1>
+        <p>Feb 2025 - Present | <em>Tradologie, Noida | Software Engineer</em></p>
+        <p> Developing Responsive Web Design , Applying Node.js and MongoDB Concepts  </p>
+        <p>Soft Skills: Team collaboration, Problem-solving, Attention to detail, Communication</p>
+          
+        <p>May 2024 - Feb 2025 | <em>Sahind Technologies. | .Net Developer</em></p>
+        <p>Visual Studio – Code navigation, extensions, debugging
+        <p>SQL – Stored procedures, joins, indexes </p>
+        <p>JavaScript , .NET Core , HTML5 & CSS3 , C# </p>
 
-.intro {
-  width: 30%;
-  margin: auto;
-}
 
-.contact-message {
-  width: 40%;
-  margin: 40px auto 60px;
-}
+          </p>
+        
+      </section>
+      <section>
+        <h1>Technical Skills</h1>
+        <ul class="skill-set">
+          <li>ASP.NET</li>
+          <li>SQL</li>
+          <li>JavaScript</li>
+          <li>Node.Js</li>
+          <li>HTML5</li>
+          <li>CSS3</li>
+          <li>MongoDB</li>
+          <li>Frontend</li>
+          <li>Backend</li>
+          <li>C#</li>
+          <li>Software Design</li>
+          <li>ASP.NET Web API</li>
+          <li>Responsive Web Design</li>
+        </ul>
+      </section>
+      <section>
+        <div class="handmade">
+          <p>handmade by <em> Bhumika Kashyap</em></p>9354743411
+        </div>
+      </section>
+    </div>
 
-.copyright {
-  color: #EAF6F6;
-  font-size: 0.75rem;
-  padding: 20px 0;
-}
+  </div>
 
-.top-cloud {
-  position: absolute;
-  right: 300px;
-  top: 40px;
-}
-
-.bottom-cloud {
-  position: absolute;
-  left: 250px;
-  bottom: 300px;
-}
-
-.code-img {
-  width: 25%;
-  float: left;
-  margin-right: 30px;
-}
-
-.chilli-img {
-  width: 25%;
-  float: right;
-  margin-left: 30px;
-}
-
-.btn {
-  background: #11cdd4;
-  background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
-  background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
-  background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
-  background-image: -o-linear-gradient(top, #11cdd4, #11999e);
-  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
-  -webkit-border-radius: 8;
-  -moz-border-radius: 8;
-  border-radius: 8px;
-  font-family: 'Montserrat', sans-serif;
-  color: #ffffff;
-  font-size: 20px;
-  padding: 10px 20px 10px 20px;
-  text-decoration: none;
-}
-
-.btn:hover {
-  background: #30e3cb;
-  background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
-  background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
-  background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
-  background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
-  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
-  text-decoration: none;
-}
+</div>
